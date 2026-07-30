@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GK-P/My-Coding-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0242-valid-anagram](https://github.com/GK-P/My-Coding-Journey/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/GK-P/My-Coding-Journey/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/GK-P/My-Coding-Journey/tree/master/0412-fizz-buzz) |
 ## String Matching
@@ -34,4 +35,9 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/GK-P/My-Coding-Journey/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/GK-P/My-Coding-Journey/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/GK-P/My-Coding-Journey/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
