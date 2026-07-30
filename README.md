@@ -26,6 +26,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/GK-P/My-Coding-Journey/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/GK-P/My-Coding-Journey/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -40,4 +41,12 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/GK-P/My-Coding-Journey/tree/master/0242-valid-anagram) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/GK-P/My-Coding-Journey/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/GK-P/My-Coding-Journey/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
