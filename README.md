@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/GK-P/My-Coding-Journey/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/GK-P/My-Coding-Journey/tree/master/0027-remove-element) |
+| [1480-running-sum-of-1d-array](https://github.com/GK-P/My-Coding-Journey/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,4 +50,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/GK-P/My-Coding-Journey/tree/master/0070-climbing-stairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/GK-P/My-Coding-Journey/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
