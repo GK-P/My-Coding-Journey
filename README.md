@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/GK-P/My-Coding-Journey/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/GK-P/My-Coding-Journey/tree/master/0027-remove-element) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/GK-P/My-Coding-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/GK-P/My-Coding-Journey/tree/master/0217-contains-duplicate) |
 | [1480-running-sum-of-1d-array](https://github.com/GK-P/My-Coding-Journey/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
@@ -49,6 +50,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/GK-P/My-Coding-Journey/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/GK-P/My-Coding-Journey/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Memoization
 |  |
 | ------- |
